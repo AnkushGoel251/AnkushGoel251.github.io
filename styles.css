@@ -1,13 +1,15 @@
-.upper
-{
-    padding: 0%;
+.upper{
+  padding: 0%;
     background-size: 100%;
-    background-image: url('https://c4.wallpaperflare.com/wallpaper/431/917/147/electrical-tram-low-angle-street-wallpaper-preview.jpg');
-    background-repeat: no-repeat;
+     background-image:url('https://mmag.in/wp-content/uploads/elementor/thumbs/bight-orange-colored-light-bulb-min-scaled-p0mkdpr4hfdn1wmcngmhyk6219ibto0cop9neqzh6g.jpg') ;
+    background-repeat: no-repeat; 
 }
+
 body{
     margin: 0;
     overflow-x: hidden;
+    
+
 }
 .hidden-thing{
     position: absolute;
@@ -22,6 +24,7 @@ body{
     width: 20rem;
     margin-left: 100px;
     margin-top: 10px;
+    border-radius: 50%;
     padding-right: 10%;
 }
 .name
