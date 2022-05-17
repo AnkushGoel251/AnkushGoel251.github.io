@@ -1,5 +1,15 @@
+.myimg
+{
+    height: 20%;
+    width: 20%;
+    margin-left: 100px;
+    margin-top: 10px;
+    border-radius: 50%;
+    padding-right: 10%;
+}
+
 .upper{
-  padding: 0%;
+    padding: 0%;
     background-size: 100%;
      background-image:url('https://mmag.in/wp-content/uploads/elementor/thumbs/bight-orange-colored-light-bulb-min-scaled-p0mkdpr4hfdn1wmcngmhyk6219ibto0cop9neqzh6g.jpg') ;
     background-repeat: no-repeat; 
@@ -8,8 +18,6 @@
 body{
     margin: 0;
     overflow-x: hidden;
-    
-
 }
 .hidden-thing{
     position: absolute;
@@ -18,29 +26,18 @@ body{
     height: 50px;
     opacity: 0;
 }
-.myimg
-{
-    height: 20rem;
-    width: 20rem;
-    margin-left: 100px;
-    margin-top: 10px;
-    border-radius: 50%;
-    padding-right: 10%;
-}
+
 .name
 {
     font-family: 'Ephesis', cursive;
     display: inline;
-    font-size: 4rem;
-    position: absolute;
-    left: 30rem;
+    font-size: 4em;
     color: azure;
     
 }
 
  /* The sidebar menu */
  .sidenav {
-    height: 100%; /* Full-height: remove this if you want "auto" height */
     width: 100px; /* Set the width of the sidebar */
     position: fixed; /* Fixed Sidebar (stay in place on scroll) */
     z-index: 1; /* Stay on top */
@@ -55,7 +52,7 @@ body{
   .sidenav a {
     padding: 6px 10px 6px 1px;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 2.5vh;
     color: black;
     display: block;
   }
