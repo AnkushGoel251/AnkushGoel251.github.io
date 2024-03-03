@@ -1,5 +1,8 @@
 # Personal Portfolio-website
 This repository contains my personal portfolio website. Feel free to visit and create a pull request if you find any bugs or improvement!!
+
+![Screenshot_main](https://github.com/AnkushGoel251/AnkushGoel251.github.io/assets/77546629/903779e1-d289-4dd0-aad5-c59454c7d588)
+
     
 # Visit
 Hosted using GitHub pages, to visit [click here](https://ankushgoel251.github.io/)
