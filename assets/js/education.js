@@ -29,6 +29,10 @@ const moocscards = [
     title: "SQL Intermediate",
     cardImage: "assets/images/education-page/sql_intermediate.jpg",
   },
+  {
+    title: "Postman Student Expert",
+    cardImage: "assets/images/education-page/Postman - Postman API Fundamentals Student Expert - 2024-03-26.png",
+  },
 ];
 
 const experience = [
