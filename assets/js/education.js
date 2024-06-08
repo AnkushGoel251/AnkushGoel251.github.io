@@ -31,7 +31,7 @@ const moocscards = [
   },
   {
     title: "Postman Student Expert",
-    cardImage: "assets/images/education-page/Postman - Postman API Fundamentals Student Expert - 2024-03-26.png",
+    cardImage: "assets/images/education-page/Postman-Postman_API_Fundamentals_Student_Expert.png",
   },
 ];
 
